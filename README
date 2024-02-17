@@ -1,0 +1,8 @@
+Scripts created to process SAR data according to different compression algorithms and various degrees of precision in sensor or trajectory parameters. 
+
+Standard processing algorithms are collected in radardataprocessor.py as functions (not all algorithms used are compiled in this file).
+
+Sample images included for various techniques.
+
+
+
